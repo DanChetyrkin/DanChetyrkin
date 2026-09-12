@@ -2,7 +2,7 @@
 
 Software Engineering student at **Bar-Ilan University** and a **NOC Analyst** with hands-on experience in infrastructure, networking, virtualization, monitoring, and automation.
 
-I enjoy working with real systems, troubleshooting technical problems, and building practical software projects. I'm currently expanding my skills in **DevOps, Cloud Infrastructure, Networking, and Cybersecurity**.
+I enjoy working with real systems, troubleshooting technical problems, and building practical software projects.
 
 ---
 
