@@ -12,7 +12,6 @@ I enjoy working with real systems, troubleshooting technical problems, and build
 - NOC Analyst with hands-on infrastructure and technical support experience
 - Working with Linux, Windows, VMware, networking, servers, storage, and monitoring systems
 - Automating operational tasks using Python, Bash, and CMD/Batch
-- Interested in DevOps, Cloud Infrastructure, Networking, and Cybersecurity
 
 ---
 
