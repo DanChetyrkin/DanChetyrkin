@@ -47,7 +47,7 @@ I enjoy working with real systems, troubleshooting technical problems, and build
 
 ### 🚗 [PlateToPrice](https://github.com/gaffner/PlateToPrice)
 
-A mobile application for retrieving vehicle information and estimating the value of Israeli vehicles using license plate recognition and multiple external data sources.
+A collaborative mobile application for retrieving vehicle information and estimating the value of Israeli vehicles using license plate recognition and multiple external data sources.
 
 - React Native mobile application
 - Python / FastAPI backend
@@ -62,7 +62,7 @@ A mobile application for retrieving vehicle information and estimating the value
 
 ### ☁️ [Cloud Storage Platform](https://github.com/Advanced-Programming-Project-Ron-Dan/Advanced-Programming-Project-ex5)
 
-A cloud-style file storage system with web and mobile clients and a multithreaded backend.
+A collaborative cloud-style file storage system with web and mobile clients and a multithreaded backend.
 
 - C++ TCP client-server architecture
 - Multithreaded thread-pool implementation
@@ -73,6 +73,21 @@ A cloud-style file storage system with web and mobile clients and a multithreade
 - Dockerized development environment
 
 **Tech:** C++ • React • React Native • Docker • REST API • JWT • TCP/IP
+
+---
+
+### 📅 [Schedulix](https://github.com/shahafsadon/Schedulix)
+
+A collaborative Python desktop application for generating, ranking, and improving exam schedules under academic constraints.
+
+- Constraint-based schedule generation
+- Progressive ranking with a live Top 50 preview
+- Manual schedule editing and impact analysis
+- Named snapshots and schedule comparison
+- Fallback compromise schedules when no fully valid solution exists
+- Layered architecture separating GUI, presenters, services, and scheduling logic
+
+**Tech:** Python • Tkinter • Pytest • OOP • Layered Architecture
 
 ---
 
